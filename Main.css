@@ -1,4 +1,8 @@
-input[type=text], input[type=password] {
+body {
+    background: #deeaee;
+}
+
+.text_input {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -6,6 +10,7 @@ input[type=text], input[type=password] {
     border: 1px solid black;
     box-sizing: border-box;
 }
+
 
 button {
     background-color: green;
